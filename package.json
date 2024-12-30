@@ -1,0 +1,15 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "learn java script node js backend series from hitesh chaudhary",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kailash",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
